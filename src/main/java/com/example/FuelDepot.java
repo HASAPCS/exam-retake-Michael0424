@@ -22,6 +22,10 @@ public class FuelDepot {
 
     // Method to implement for a)
     public int nextTankToFill(int threshold) {
+        int mixnumber =0;
+        
+
+
         // Your implementation here
     }
 
@@ -30,3 +34,4 @@ public class FuelDepot {
         // Your implementation here
     }
 }
+
